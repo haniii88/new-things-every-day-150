@@ -1,4 +1,4 @@
-/* New Things Every Day — Da 150 */
+/* New Things Every Day — Day 150 */
 /* Analyzes project performance and creates a milestone report */
 
 function dailyLog150() {
